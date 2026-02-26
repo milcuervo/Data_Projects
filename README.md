@@ -34,7 +34,6 @@ Este espacio reúne implementaciones en Python orientadas a comprender cómo la 
 ## 🛠️ Tecnologías Utilizadas
 
 * Python
-* R
 
 ---
 
@@ -77,8 +76,8 @@ Este repositorio no solo muestra código, sino que enfatiza:
 
 ## 👩‍💻 Autoría
 
-**Gladys Choque Ulloa**
-PhD(c). en Ciencia de Datos
-Especialista en Estadística Aplicada y Machine Learning
+**Miguel Angel Cuervo Espinosa**
+BS. INGENIERÍA BIOLÓGICA
+Estudiante curioso y autóctono en Estadística Aplicada y Machine Learning
 
 ---
